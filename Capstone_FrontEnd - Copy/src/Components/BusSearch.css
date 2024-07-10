@@ -1,0 +1,28 @@
+/* BusSearch.css */
+.search-section {
+    background-color: #213b58; /* Light grey background for search section */
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .results-section {
+    margin-top: 20px;
+  }
+  
+  .card {
+    border: 1px solid #f50388;
+    
+  }
+  
+  .card-title {
+    color: #097df0; /* Darker grey for card titles */
+  }
+  
+  .btn-primary {
+    background-color: #0ef7f7; /* Ensure button color is as intended */
+    border-color: #040808;
+  }
+  body{
+    background-color: red;
+  }
+  
